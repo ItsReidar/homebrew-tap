@@ -2,7 +2,7 @@
 # packaging/homebrew/brain-md.rb.template — edit the template there, not this file.
 cask "brain-md" do
   version "1.9.1"
-  sha256 "55332a0bab6e6d70e55ac3572c60e3600bb11e7899ff37d8c8145186bd29c113"
+  sha256 "1a38c6063bb669e1c9f12a9a61d5cace707a20ce888a3bc4ca16969457e2162f"
 
   url "https://github.com/ItsReidar/brain-md/releases/download/v#{version}/brain-md-#{version}.dmg"
   name "Brain.md"
